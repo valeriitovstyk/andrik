@@ -14,3 +14,4 @@ function validateInput(e) {
 
 }
 login.addEventListener("blur", validateInput);
+
